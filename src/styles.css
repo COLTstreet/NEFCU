@@ -1,0 +1,30 @@
+.primary {
+  color: #00BCD4 !important;
+}
+
+.secondary {
+  color: #FF5722 !important;
+}
+
+.tidbit {
+  font-size: 11px;
+}
+
+.top-30 {
+  margin-top: 30px;
+}
+
+.left-10 {
+  padding-left: 10px;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 880px) {
+  .promo {
+    width: 100%;
+  }
+}
