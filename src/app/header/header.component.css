@@ -16,6 +16,16 @@ a:hover {
   display: none;
 }
 
+.banking-btn {
+  background: #FF5722;
+  color: white !important;
+}
+
+.banking-btn:hover {
+  background: #FF5722;
+  color: white !important;
+}
+
 @media (max-width: 880px) {
   .title {
     font-size: 1.25rem;
